@@ -13,6 +13,9 @@
 		049A36C92B7BCA5C00A40291 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049A36C72B7BCA5C00A40291 /* Main.storyboard */; };
 		049A36CB2B7BCA5E00A40291 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049A36CA2B7BCA5E00A40291 /* Assets.xcassets */; };
 		049A36CE2B7BCA5E00A40291 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049A36CC2B7BCA5E00A40291 /* LaunchScreen.storyboard */; };
+		04D749222B7BCCBF005122FB /* TVC_Makale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D749202B7BCCBF005122FB /* TVC_Makale.swift */; };
+		04D749232B7BCCBF005122FB /* TVC_Makale.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04D749212B7BCCBF005122FB /* TVC_Makale.xib */; };
+		04D749252B7BCE99005122FB /* Makale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D749242B7BCE99005122FB /* Makale.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		049A36CA2B7BCA5E00A40291 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		049A36CD2B7BCA5E00A40291 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		049A36CF2B7BCA5E00A40291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D749202B7BCCBF005122FB /* TVC_Makale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVC_Makale.swift; sourceTree = "<group>"; };
+		04D749212B7BCCBF005122FB /* TVC_Makale.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TVC_Makale.xib; sourceTree = "<group>"; };
+		04D749242B7BCE99005122FB /* Makale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Makale.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				049A36CA2B7BCA5E00A40291 /* Assets.xcassets */,
 				049A36CC2B7BCA5E00A40291 /* LaunchScreen.storyboard */,
 				049A36CF2B7BCA5E00A40291 /* Info.plist */,
+				04D749202B7BCCBF005122FB /* TVC_Makale.swift */,
+				04D749212B7BCCBF005122FB /* TVC_Makale.xib */,
+				04D749242B7BCE99005122FB /* Makale.swift */,
 			);
 			path = bolumSonuLab;
 			sourceTree = "<group>";
@@ -127,6 +136,7 @@
 			files = (
 				049A36CE2B7BCA5E00A40291 /* LaunchScreen.storyboard in Resources */,
 				049A36CB2B7BCA5E00A40291 /* Assets.xcassets in Resources */,
+				04D749232B7BCCBF005122FB /* TVC_Makale.xib in Resources */,
 				049A36C92B7BCA5C00A40291 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +150,8 @@
 			files = (
 				049A36C62B7BCA5C00A40291 /* ViewController.swift in Sources */,
 				049A36C22B7BCA5C00A40291 /* AppDelegate.swift in Sources */,
+				04D749222B7BCCBF005122FB /* TVC_Makale.swift in Sources */,
+				04D749252B7BCE99005122FB /* Makale.swift in Sources */,
 				049A36C42B7BCA5C00A40291 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
